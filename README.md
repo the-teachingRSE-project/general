@@ -8,4 +8,4 @@ https://zenodo.org/communities/teachingrse
 
 [2024](pad_archive/2024.md)
 
-[2025](pad_archive/2024.md)
+[2025](pad_archive/2025.md)
