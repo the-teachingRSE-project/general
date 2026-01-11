@@ -94,26 +94,27 @@ some central IT departments seem to be reluctant to take on extra
 services. Other new central RSE units are being established in Marburg
 and Frankfurt/Main.
 
-Next was Nicholas Del Grosso from the university hospital Bonn who runs
-the [iBOTS](https://ibots-bonn.de/) open neuro science training platform
+Next was Nicholas Del Grosso from the university hospital Bonn, who runs
+the [iBOTS](https://ibots-bonn.de/) open neuroscience training platform
 which is part of the [ibehave](https://ibehave.nrw/) network. They are a
-team of 5 people that develop and teach neuro science courses. They have
-three levels of courses: 1. tool based courses which are essentially
-howtos, 2. courses that teach methods and workflows, and 3. domain
-specific application courses that address scientific questions. The
+team of 4 people that develop and teach neuroscience courses. As part of their 
+course development pipeline, they evolve their courses through three stages: 
+1. tool-based courses, which are essentially howtos, 2. courses that teach methods and workflows across an ecosystem of tools, and 3. domain
+specific application courses that address scientific questions, using an ecosystem of tools. The
 courses take the form of summer schools (2-3 weeks), online workshops
 (1-3 days), on-demand help and self-study materials. Their materials and
-web site is constructed using a static website generator. They did try
-[quarto](https://quarto.org/) but found it too slow taking around 30
-minutes to generate the entire website. Their new pipeline (based on
-hugo or jekyll) takes seconds. RSE services are another part of
-scientific support infrastructure, similar to RDM, animal welfare,
-library service, peer-reviewed journals, etc. Teaching these courses is
-difficult because the teachers are domain experts and not necessarily
-educators. There is also a high turnover of teachers since either their
-contracts run out or they find employment elsewhere. This pressurises
-course didactics. Ideally a single teacher can handle a group of 10 to
-14 students. To scale up a course needs to increase the student-student
+web site is constructed using a custom pipeline that converts files into
+a format ready for the static website generator [Hugo](https://gohugo.io/). They did try
+[quarto](https://quarto.org/) but found it too slow for such a large project, taking around 30
+minutes to generate the entire website, and  using a popular SSG like Hugo makes customizing
+the website with modern features much more straight-forward. Their new pipeline takes seconds to build
+the full site. In his talk, Nicholas described RSE services as another part of scientific support infrastructure,
+similar to RDM, animal welfare, library service, peer-reviewed journals, etc. Teaching these courses is
+difficult because the trainers are neither domain experts (they much support many scientific domains and technical workflows)
+and are also necessarily educators (they tend to have a research background, with no formal education).
+There is also a high turnover of staff since either their contracts run out or they find employment elsewhere. This pressurises
+course didactics. Without a scaling strategy, most single teachers addressing a group of students can handle a group of 10 to
+14 students without trouble. To scale up to larger groups, a course needs to increase the student-student
 or student-computer interactions. The iBOTS team does this by having
 regular 3 people break-out rooms. Participants get randomly shuffled
 which helps to ensure that preferences to work with either a proficient
@@ -124,9 +125,9 @@ tell the others why they are taking part in the course and what they are
 excited about which turns out to be much more effective than the teacher
 giving a motivational introduction and what to expect and get out of the
 course. This way they can handle courses with 80 participants and a
-single teacher. Feedback is gathered using miro boards. Private mode
-allows participants to add their own feedback without seeing what the
-others are writing. In a second round the participants are asked to
+single teacher. Feedback is gathered using following a "4L Retroscpective" session using [Miro](https://miro.com/app/dashboard/) boards. Miro features like Private mode
+(allows participants to add their own feedback without seeing what the
+others are writing) and timers (to keep everyone on-task) are very helpful for this. In a second round the participants are asked to
 group the feedback.
 
 Julian Dehne, then, gave an update of the development of an [RSE
