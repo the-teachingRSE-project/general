@@ -93,7 +93,7 @@ presentation skills and is good advertisement for the courses.
 
 The second talk was given by
 [Jan Philipp Thiele](https://www.tu-braunschweig.de/ub/wir-ueber-uns/ansprechpersonen-organigramm/jan-philipp-thiele)
-from the digital science support unit of the library of the TU Braunschweig.
+from the [digital science support lab of the TU Braunschweig](https://www.tu-braunschweig.de/struktur/praesidium/vp-dn/digital-science-support-lab).
 The support services are shared by the various lower saxony universities.
 Hannover focuses on AI while Braunschweig focuses on RSE. They use the live code extension
 of VSCode with some success. We had an interesting discussion on where
