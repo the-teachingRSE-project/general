@@ -103,7 +103,7 @@ some central IT departments seem to be reluctant to take on extra
 services. Other new central RSE units are being established in Marburg
 and Frankfurt/Main.
 
-Next was [Nicholas Del Grosso]()https://ibots-bonn.de/de/team/nick/
+Next was [Nicholas Del Grosso](https://ibots-bonn.de/de/team/nick/)
 from the university hospital Bonn, who runs the [iBOTS](https://ibots-bonn.de/)
 open neuroscience training platform which is part of the [ibehave](https://ibehave.nrw/) network.
 They are a team of four people that develop and teach neuroscience courses. As part of their 
