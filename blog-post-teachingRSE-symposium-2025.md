@@ -122,10 +122,9 @@ minutes to generate the entire website, and  using a popular static site generat
 the website with modern features much more straight-forward. Their new pipeline takes seconds to build
 the full site. In his talk, Nicholas described RSE services as another part of scientific support infrastructure,
 similar to RDM, animal welfare, library service, peer-reviewed journals, etc.
-FIXME:
 Teaching these courses is
-difficult because the trainers are neither domain experts (they much support many scientific domains and technical workflows)
-and are also necessarily educators (they tend to have a research background, with no formal education).
+difficult because the trainers are neither domain experts (they support many scientific domains and technical workflows)
+nor are they necessarily educators (they tend to have a research background, with no formal education).
 
 There is also a high turnover of staff since either their contracts run out or they find employment elsewhere. This pressurises
 course didactics. Without a scaling strategy, most single teachers addressing a group of students can handle a group of 10 to
