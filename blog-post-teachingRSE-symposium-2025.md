@@ -11,19 +11,27 @@ group](https://github.com/the-teachingRSE-project) of the [deRSE
 society](https://de-rse.org/de/index.html) met in Dresden for the
 [Symposium on Teaching Research Software Engineering in
 Germany](https://the-teachingrse-project.github.io/teachingRSE-symposium/).
-My journey to Dresden was fairly straight-forward. I got to try out the
-just opened Dresdner Bahn in a Czech train to Prague. There was an
-emergency further down the line and we got into Dresden 20 minutes late.
+The journey to Dresden was fairly straight-forward for those coming from Berlin.
+They got to try out the just opened Dresdner Bahn in a Czech train to Prague.
 Others were not so lucky and arrived a few hours late. The people who
 arrived on time used the opportunity to drink coffee and catch up with
 various research software engineering topics.
+
+One of the discussions was about why it is so difficult to recruit helpers
+and instructors for Carpentries workshops. It seems like the usual
+candidates, PhD students, are too busy working in the labs of their
+supervisors to be able to do any teaching. In the UK, PhD
+students work on their projects which are part of the lab. However, they
+are not expected to take on any extra responsibilities in running a lab.
+This role is usually fulfilled by post-docs. This might explain why it
+appears to be more difficult to establish the carpentries in Germany.
 
 Guido Juckeland gave the first presentation on teaching RSE at the TU
 Dresden. The course comprises typical RSE topics: shell, working in
 teams, licensing, testing and CI/CD, build systems and software
 publications. Teaching is done in lectures and practicals. The students
 first work on individual project during the first half and then on group
-projects during the second half. I really liked the idea to use the
+projects during the second half. They use the
 [flake8](https://flake8.pycqa.org/en/latest/) python linter for marking.
 It was not surprising that genAI popped up. Fredo Erxleben was wondering
 how to ensure that the students do not overly rely on genAI for code
@@ -39,23 +47,23 @@ the students would produce reproducible jupyter notebooks. In practise,
 they stuck to the scaffolding and did not add much documentation.
 Students probably need to be guided more explicitly.
 
-Next, I gave a brief overview of the history of the
-[Carpentries](https://carpentries.org/) and my new role in the [Software
+Next, Magnus Hagdorn gave a brief overview of the history of the
+[Carpentries](https://carpentries.org/) and his new role in the [Software
 Carpentry Governance
-Committee](https://software-carpentry.org/about-us/governance/). I then
+Committee](https://software-carpentry.org/about-us/governance/). Magnus then
 gave an outlook of what is brewing in the world of the Carpentries. The
 [HPC Carpentry](https://www.hpc-carpentry.org/) course has moved into
 the incubator and is becoming part of the official curriculum. The
 course includes an intro to HPC, workflows with
 [snakemake](https://snakemake.readthedocs.io/en/stable/) and HPC python.
-The course can be easily modified to suit local HPC clusters. We, the
+The course can be easily modified to suit local HPC clusters. The
 scientific computing team at the Charité, has used the HPC course during
-our last HPC training event. The other big news is that the Carpentries
+their last HPC training event. The other big news is that the Carpentries
 are working on a 2 day AI course. In fact, the plan is to have two
 courses: one for beginners and one for proficient programmers. Both
 courses will include an introduction to the technology of LLMs and how
 they work, implications of using them and how to use them at levels
-appropriate to the target audience. I also reported on the ideas to work
+appropriate to the target audience. Magnus also reported on the ideas to work
 on the git courses, offering github and gitlab specific material, VSCode
 and the plan to look into transitioning courses (in particular
 intermediate courses) from the incubator in the Software Carpentry
@@ -67,8 +75,8 @@ Given the late start we proceeded to the evening programme: a trip to
 the Christmas Market. We passed the big and famous one (the
 Striezelmarkt) and went for the one at the Frauenkirche which was a
 little bit less crowded. We tried egg glogg which tastes essentially
-like alcoholic custard sauce and had something to eat. I was quite
-pleased that we found our way to an inside place with some beer. RSE
+like alcoholic custard sauce and had something to eat. Some of us
+found their way to an inside place with some beer. RSE
 discussions continued. We resumed the conversations in the morning at
 breakfast in the guest house.
 
@@ -145,30 +153,5 @@ project which aims to make RSE related open educational resources more
 findable. In order to be able to do so they are looking into a metadata
 schema for standardised annotation of RSE-OERs.
 
-On the way back I used the opportunity for a little wander and checked
-out the state of the [Carola
-Bridge](https://de.wikipedia.org/wiki/Carolabr%C3%BCcke_(Dresden)) which
-had collapsed in September 2024. Not much is left. The train journey
-back to Berlin worked as promised and without any delays.
-
-I would like to thank Florian Goth for organising the event and all the
-participants for a very enjoyable and productive meeting. It was good to
-catch up in person after meeting every week virtually. There is so much
-exciting stuff going on and I am looking forward to collaborating on
-some projects next year. The next opportunity to catch up in person is
-the [deRSE26](https://events.hifis.net/event/2945/) conference in
-Stuttgart.
-
 Presentations of the event will be shared on the [zenodo
 community](https://zenodo.org/communities/teachingrse-symposium-2025/records).
-
-**Update**: I forgot to note down a conversation we had on the
-difficulty of finding carpentry instructors. It seems like the usual
-candidates, PhD students, are too busy working in the labs of their
-supervisors to be able to do any teaching. This is certainly also the
-message I got when I asked whether there might be PhD students
-interested in being helpers or becoming instructors. In the UK, PhD
-students work on their projects which are part of the lab. However, they
-are not expected to take on any extra responsibilities in running a lab.
-This role is usually fulfilled by post-docs. This might explain why it
-appears to be more difficult to establish the carpentries in Germany.
