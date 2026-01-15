@@ -160,5 +160,11 @@ project which aims to make RSE related open educational resources more
 findable. In order to be able to do so they are looking into a metadata
 schema for standardised annotation of RSE-OERs.
 
+All participants agreed, that it was good to
+catch up in person after meeting every week virtually in the [online meetings](https://pad.gwdg.de/s/pVBQ3Sh7Z)
+of the [teachingRSE project](https://github.com/the-teachingRSE-project).
+The next opportunity to catch up in person is
+the [deRSE26](https://events.hifis.net/event/2945/) conference in
+Stuttgart.
 Presentations of the event will be shared on the
 [zenodo community](https://zenodo.org/communities/teachingrse-symposium-2025/records).
